@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Report Package Assembler is an advanced document processing tool designed to automatically extract and organize relevant content from a collection of base documents based on a predefined checklist. It leverages AI technologies to intelligently parse and categorize information across different document types.
+The Report Assembler is an advanced document processing tool designed to automatically extract and organize relevant content from a collection of base documents based on a predefined checklist. It leverages AI technologies to intelligently parse and categorize information across different document types.
 
 ## Features
 
