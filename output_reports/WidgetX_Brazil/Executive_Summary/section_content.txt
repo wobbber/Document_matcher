@@ -1,0 +1,4 @@
+Executive Summary:  The Laptop delivers high performance with a fast Intel Core i7 processor (3.5 GHz base, 4.9 GHz turbo), 16GB DDR5 RAM, 512GB NVMe SSD, and NVIDIA GeForce GTX 1650 graphics.  Battery life is up to 12 hours.  The 15.6-inch Full HD (1920x1080) 120Hz display provides smooth visuals.  Benchmark scores include Cinebench R23 (12,300 multi-core, 1,500 single-core) and 3DMark Time Spy (4,500 graphics, 3,200 CPU).
+
+No specific content available.
+

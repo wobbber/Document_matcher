@@ -1,0 +1,8 @@
+Manufacturing Process of the Laptop:
+
+1. **Component Sourcing**: High-quality components such as processors, memory modules, and displays are sourced from leading suppliers worldwide.  
+2. **Assembly**: The Laptop undergoes precise assembly using robotic automation, ensuring consistent quality.  
+3. **Quality Testing**: Each unit is subjected to rigorous testing, including stress tests, drop tests, and thermal performance checks.  
+4. **Environmental Compliance**: The manufacturing process adheres to strict environmental standards, including reduced emissions and the use of recyclable materials.  
+5. **Final Inspection**: A manual inspection ensures that each Laptop meets the company's high standards before packaging and distribution.  
+6. **Packaging and Shipping**: Packaged with eco-friendly materials and optimized for safe and efficient global shipping.

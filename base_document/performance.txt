@@ -1,0 +1,10 @@
+Performance Metrics of the Laptop:
+
+1. **Processor Speed**: Powered by the latest Intel Core i7 processor, the Laptop operates at a base speed of 3.5 GHz and can turbo boost up to 4.9 GHz.  
+2. **RAM and Storage**: Equipped with 16 GB of DDR5 RAM and a 512 GB NVMe SSD, ensuring quick boot times and seamless multitasking.  
+3. **Graphics**: Integrated with NVIDIA GeForce GTX 1650, the Laptop delivers exceptional graphics performance for gaming and creative applications.  
+4. **Battery Life**: Provides up to 12 hours of usage on a single charge, supported by a 65W fast-charging capability.  
+5. **Display**: Features a 15.6-inch Full HD (1920x1080) IPS display with a refresh rate of 120 Hz for smooth visuals.  
+6. **Benchmarks**:
+   - Cinebench R23: Multi-core score: 12,300, Single-core score: 1,500.  
+   - 3DMark Time Spy: Graphics score: 4,500, CPU score: 3,200.

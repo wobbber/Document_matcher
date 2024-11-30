@@ -1,0 +1,24 @@
+{
+    "product": "WidgetX",
+    "market": "Brazil",
+    "sections": [
+        {
+            "name": "Executive Summary",
+            "required": true,
+            "content_type": ["text"],
+            "extraction_instructions": "Provide a high-level overview of product performance"
+        },
+        {
+            "name": "Performance Data",
+            "required": true,
+            "content_type": ["table", "text"],
+            "extraction_instructions": "Extract technical specifications and market performance metrics"
+        },
+        {
+            "name": "Manufacturing Process",
+            "required": true,
+            "content_type": ["text", "image"],
+            "extraction_instructions": "Detail manufacturing steps and quality control processes"
+        }
+    ]
+}

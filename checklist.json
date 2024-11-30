@@ -1,0 +1,18 @@
+{
+    "product": "Laptop",
+    "market": "Canada",
+    "sections": [
+        {
+            "name": "Introduction",
+            "extraction_instructions": "Extract introductory details about the product."
+        },
+        {
+            "name": "Performance Data",
+            "extraction_instructions": "Extract all relevant performance metrics and tables."
+        },
+        {
+            "name": "Manufacturing Process",
+            "extraction_instructions": "Provide manufacturing process details."
+        }
+    ]
+}
