@@ -27,13 +27,14 @@ python3.10 or +3.8
 1. Clone the repository
 ```bash
 git clone https://your-repository-url.git
-cd report-package-assembler
+cd folfer name 
 ```
 
 2. Install required dependencies
 ```bash
 pip install -r requirements.txt
 ```
+3. In have app.py and appui.py run the appui.py that gradio based ui give the checklist path and base document path take the folder as wellf  format.
 
 ## Configuration
 
