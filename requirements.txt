@@ -6,5 +6,4 @@ pypdf
 transformers
 tokenizers
 typing
-gpt2-tokenizer
 sentence-transformers
