@@ -1,8 +1,10 @@
+streamlit
+google-generativeai
 langchain
 langchain-community
-torch==2.1.2
-accelerate==0.25.0
-pypdf==4.0.1
-
-sentence-transformers==2.3.1
-bitsandbytes==0.41.1
+pypdf
+transformers
+tokenizers
+typing
+gpt2-tokenizer
+sentence-transformers
